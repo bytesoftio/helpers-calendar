@@ -1,6 +1,6 @@
 {
   "name": "@bytesoftio/helpers-calendar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Maxim Kott",
   "license": "MIT",
   "main": "dist/index.js",
