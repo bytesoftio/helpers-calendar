@@ -11,8 +11,7 @@
 
 
 - [Description](#description)
-- [Usage](#usage)
-  - [createCalendarMonthView](#createcalendarmonthview)
+- [createCalendarMonthView](#createcalendarmonthview)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -20,9 +19,7 @@
 
 This is a collection of helpers useful when working with calendars and the likes.
 
-## Usage
-
-### createCalendarMonthView
+## createCalendarMonthView
 
 Creates a 6x7 multidimensional array containing dates based on a given date. It can be used whenever you want to
 build some sort of a calendar widget, showing current date and all the other dates within the same month, as a
@@ -58,4 +55,4 @@ week 16 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 week 17 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 week 18 | 27 | 28 | 29 | 30 | 01 | 02 | 03 |
 week 19 | 04 | 05 | 06 | 07 | 08 | 09 | 10 |
-``` 
+```
